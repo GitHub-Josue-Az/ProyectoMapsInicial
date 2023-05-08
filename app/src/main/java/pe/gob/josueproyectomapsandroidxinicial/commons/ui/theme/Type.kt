@@ -253,6 +253,8 @@ val TypeDescription5 = TextStyle(
     color = PrimaryPurpleDarkest
 )
 
+// pimer cambio
+
 val TypeParagraphGothamMedium = TextStyle(
     fontFamily = Gotham,
     fontWeight = FontWeight.Medium,
