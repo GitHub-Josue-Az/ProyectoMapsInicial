@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TravelMemories</string>
+    <string name="mapScree">Descrubrir</string>
+    <string name="animationScree">Adornos</string>
+    <string name="mapAnimationScree">Visitas</string>
+    <string name="my_profile">Perfil</string>
+    <string name="sign_out">Salir</string>
+    <string name="back">Atras</string>
+    <string name="content_description_ic_toolbar_back">AtrasAea</string>
+    <string name="exit">Salir</string>
+    <string name="content_description_ic_logo">SalirAea</string>
+</resources>
